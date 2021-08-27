@@ -1,8 +1,7 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.div`
-    /* background: var(--darkGrey); */
-    background: "#E1E5F2";
+    background: var(--darkGrey);
     padding: 0 20px;
 
 `;
@@ -14,4 +13,5 @@ export const Content = styled.div`
     max-width: var(--maxWidth);
     padding: 20px 0;
     margin: 0 auto;
+    color: azure;
 `;

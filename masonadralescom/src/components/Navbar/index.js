@@ -5,7 +5,7 @@ import { Wrapper, Content} from './Navbar.styles';
 const Navbar = () => (
     <Wrapper>
         <Content>
-            Hello World!
+            Mason Adrales
         </Content>
     </Wrapper>
 );
